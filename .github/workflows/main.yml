@@ -30,7 +30,6 @@ jobs:
   # uses: QAInsights/PerfAction@f3959d0a69e7f23949add25d7e34a3ae167d6443
   uses: QAInsights/PerfAction@v3.1
   with:
-  
     test-plan-path: './firefoxcookiemanager.jmx'
     
     - name: Upload Results
